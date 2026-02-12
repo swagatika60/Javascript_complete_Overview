@@ -28,4 +28,11 @@ const another = gameName.slice(-4,3)
 
 console.log(another);
 
+//trim
+const num1 = "   swagatika  "
+console.log(num1.trim())
 
+
+//to find any word include or not
+const name1 ="Hey There"
+console.log(name1.includes("Hey"))
